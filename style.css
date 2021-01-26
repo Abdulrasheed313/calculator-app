@@ -1,0 +1,53 @@
+.main{
+    border: 4px solid black;
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+    border-radius: 20px;
+    background-color: black;
+}
+body{
+    background-color:darkcyan;
+}
+.cal{
+    text-align: center;
+    font-size: 30px;
+    background-color:darkolivegreen;
+    /* color: mediumblue; */
+}
+.result{
+    width: 393px;
+    height: 60px;
+    background-color: gray;
+    color: white;
+    border-radius: 20px;
+    margin-top: 5px;
+    font-size: 30px;
+}
+.clearbtn{
+    margin-top: 6px;
+    width: 401px;
+    height: 40px;
+    background-color:chartreuse;
+    border-radius: 20px;
+    font-size: 30px;
+    font-style: oblique;
+    
+}
+.btn{
+    width: 92px;
+    height: 50px;
+    margin: 2px;
+    margin-top: 15px;
+    font-style: oblique;
+    font-size: 20px;
+    border-radius: 10px;
+    
+    
+}
+
+.name{
+    color: rgb(100, 0, 13);
+    font-style: oblique;
+    font-family: Arial, Helvetica, sans-serif;
+}
